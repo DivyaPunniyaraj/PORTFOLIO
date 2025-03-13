@@ -14,7 +14,7 @@ MENTOR NAME:NEELA SANTHOSH
 
 #With the help of tools like HTML and CSS, I have created an Responsive  Single Page Portfolio. I Have structured the content with HTML. styled the application with CSS. Added elements for the skills container (cards), buttons, and contact form in html. Created a CSS file to style the portfolio elements.
 
-HTML: To structure the web page and display questions.
+HTML: To structure the web page and display details .
 
 CSS: To style the web page and make it visually appealing.
 
